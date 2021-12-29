@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\bin\Debug\proyecto9.11.exe.config
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\bin\Debug\proyecto9.11.exe
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\bin\Debug\proyecto9.11.pdb
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\obj\Debug\proyecto9.11.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\obj\Debug\proyecto9.11.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\obj\Debug\proyecto9.11.exe
+D:\Programas\Cursos\C# ya\Separacion-de-pares-e-impares\proyecto9.11\proyecto9.11\obj\Debug\proyecto9.11.pdb
